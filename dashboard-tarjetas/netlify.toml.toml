@@ -1,0 +1,9 @@
+[build]
+  command = "echo 'Build complete'"
+  functions = "functions"
+  publish = "."
+
+[dev]
+  framework = "static"
+  targetPort = 3000
+  port = 8888
