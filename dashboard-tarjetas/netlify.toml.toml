@@ -1,9 +1,0 @@
-[build]
-  command = "echo 'Build complete'"
-  functions = "functions"
- publish = "dashboard-tarjetas"
-
-[dev]
-  framework = "static"
-  targetPort = 3000
-  port = 8888
