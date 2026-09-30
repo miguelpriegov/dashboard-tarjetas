@@ -1,7 +1,7 @@
 [build]
   command = "echo 'Build complete'"
   functions = "functions"
-  publish = "."
+  publish = "dashboard-tarjetas"
 
 [dev]
   framework = "static"
